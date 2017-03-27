@@ -1,0 +1,22 @@
+﻿生成启动时间为 2017/1/18 14:19:33。
+     1>项目“C:\Users\Stefan\Documents\Visual Studio 2013\Projects\get_label\get_label\get_label.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\get_label.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt get_label.cpp
+         get_label.cpp
+     1>c:\users\stefan\documents\visual studio 2013\projects\get_label\get_label\get_label.cpp(4): warning C4627: “#include <iostream>”:  在查找预编译头使用时跳过
+                 将指令添加到“stdafx.h”或重新生成预编译头
+     1>c:\users\stefan\documents\visual studio 2013\projects\get_label\get_label\get_label.cpp(5): warning C4627: “#include "cstringt.h"”:  在查找预编译头使用时跳过
+                 将指令添加到“stdafx.h”或重新生成预编译头
+     1>c:\users\stefan\documents\visual studio 2013\projects\get_label\get_label\get_label.cpp(6): warning C4627: “#include "afx.h"”:  在查找预编译头使用时跳过
+                 将指令添加到“stdafx.h”或重新生成预编译头
+       Link:
+         F:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Stefan\Documents\Visual Studio 2013\Projects\get_label\Debug\get_label.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Stefan\Documents\Visual Studio 2013\Projects\get_label\Debug\get_label.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Stefan\Documents\Visual Studio 2013\Projects\get_label\Debug\get_label.lib" /MACHINE:X86 Debug\File_Operation.obj
+         Debug\get_label.obj
+         Debug\imgInfo.obj
+         Debug\stdafx.obj
+         get_label.vcxproj -> C:\Users\Stefan\Documents\Visual Studio 2013\Projects\get_label\Debug\get_label.exe
+     1>已完成生成项目“C:\Users\Stefan\Documents\Visual Studio 2013\Projects\get_label\get_label\get_label.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.88
